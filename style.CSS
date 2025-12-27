@@ -92,6 +92,7 @@ header {
     max-width: 720px;
     display: flex;
     flex-direction: column;
+    height: 100%;
 }
 
 .header__img--wrapper {
