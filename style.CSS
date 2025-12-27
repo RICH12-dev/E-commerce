@@ -13,8 +13,8 @@ nav {
     display: flex;
 }
 
-img{
-    width:100%
+img {
+    width: 100%
 }
 
 .nav__container {
@@ -29,7 +29,7 @@ img{
 }
 
 
-.red{
+.red {
     color: #bf0505
 }
 
@@ -37,11 +37,11 @@ img{
     width: 160px;
 }
 
-ul{
+ul {
     display: flex;
 }
 
-li{
+li {
     list-style-type: none;
 }
 
@@ -86,13 +86,12 @@ header {
     justify-content: space-between;
 }
 
-.header__description{
-margin: 0 auto;
-width: 100%;
-max-width: 720px;
-height: 100%;
-display: flex;
-flex-direction: column;
+.header__description {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 720px;
+    display: flex;
+    flex-direction: column;
 }
 
 .header__img--wrapper {
