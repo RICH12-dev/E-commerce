@@ -8,6 +8,12 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.body {
+    background-color: #ffeded;
+    margin: 0;
+    height: 100%;
+}
+
 nav {
     height: 80px;
     display: flex;
@@ -20,7 +26,7 @@ nav {
    max-width: 1200px;
    width: 100%;
    justify-content: space-between;
-   margin: auto 0;
+   margin: 0 auto;
    align-items: center;
    padding: 0 24px;
 }
